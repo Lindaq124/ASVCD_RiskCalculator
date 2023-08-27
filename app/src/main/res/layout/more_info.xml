@@ -1,0 +1,6 @@
+<Button
+    android:id="@+id/moreInfoButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="More Information"
+    android:onClick="showMoreInformation" />
